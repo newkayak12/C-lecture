@@ -1,0 +1,8 @@
+﻿  main.cpp
+X:\C++\C++ lecture\C++강의\C++ 강의\28 copy_consturcture _ inline_\main.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+X:\C++\C++ lecture\C++강의\C++ 강의\28 copy_consturcture _ inline_\main.cpp(64,15): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+X:\C++\C++ lecture\C++강의\C++ 강의\28 copy_consturcture _ inline_\main.cpp(65,15): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+X:\C++\C++ lecture\C++강의\C++ 강의\28 copy_consturcture _ inline_\main.cpp(65,9): error C2146: 구문 오류: ';'이(가) 'cout' 식별자 앞에 없습니다.
+X:\C++\C++ lecture\C++강의\C++ 강의\28 copy_consturcture _ inline_\main.cpp(66,5): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+X:\C++\C++ lecture\C++강의\C++ 강의\28 copy_consturcture _ inline_\main.cpp(78,12): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+X:\C++\C++ lecture\C++강의\C++ 강의\28 copy_consturcture _ inline_\main.cpp(79,1): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.

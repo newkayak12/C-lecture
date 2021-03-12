@@ -1,0 +1,22 @@
+﻿  소스.cpp
+\\NEWKAYAKNAS\Download\C++\C++ lecture\C++강의\C++ 강의\Project6\소스.cpp(214,8): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+\\NEWKAYAKNAS\Download\C++\C++ lecture\C++강의\C++ 강의\Project6\소스.cpp(214,8): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+\\NEWKAYAKNAS\Download\C++\C++ lecture\C++강의\C++ 강의\Project6\소스.cpp(215,8): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+\\NEWKAYAKNAS\Download\C++\C++ lecture\C++강의\C++ 강의\Project6\소스.cpp(215,8): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+\\NEWKAYAKNAS\Download\C++\C++ lecture\C++강의\C++ 강의\Project6\소스.cpp(216,8): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+\\NEWKAYAKNAS\Download\C++\C++ lecture\C++강의\C++ 강의\Project6\소스.cpp(216,8): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+\\NEWKAYAKNAS\Download\C++\C++ lecture\C++강의\C++ 강의\Project6\소스.cpp(217,8): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+\\NEWKAYAKNAS\Download\C++\C++ lecture\C++강의\C++ 강의\Project6\소스.cpp(217,8): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+\\NEWKAYAKNAS\Download\C++\C++ lecture\C++강의\C++ 강의\Project6\소스.cpp(218,8): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+\\NEWKAYAKNAS\Download\C++\C++ lecture\C++강의\C++ 강의\Project6\소스.cpp(218,8): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+\\NEWKAYAKNAS\Download\C++\C++ lecture\C++강의\C++ 강의\Project6\소스.cpp(219,8): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+\\NEWKAYAKNAS\Download\C++\C++ lecture\C++강의\C++ 강의\Project6\소스.cpp(219,8): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+\\NEWKAYAKNAS\Download\C++\C++ lecture\C++강의\C++ 강의\Project6\소스.cpp(220,8): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+\\NEWKAYAKNAS\Download\C++\C++ lecture\C++강의\C++ 강의\Project6\소스.cpp(220,8): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+\\NEWKAYAKNAS\Download\C++\C++ lecture\C++강의\C++ 강의\Project6\소스.cpp(221,8): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+\\NEWKAYAKNAS\Download\C++\C++ lecture\C++강의\C++ 강의\Project6\소스.cpp(221,8): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+\\NEWKAYAKNAS\Download\C++\C++ lecture\C++강의\C++ 강의\Project6\소스.cpp(222,8): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+\\NEWKAYAKNAS\Download\C++\C++ lecture\C++강의\C++ 강의\Project6\소스.cpp(222,8): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+\\NEWKAYAKNAS\Download\C++\C++ lecture\C++강의\C++ 강의\Project6\소스.cpp(223,8): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+\\NEWKAYAKNAS\Download\C++\C++ lecture\C++강의\C++ 강의\Project6\소스.cpp(223,8): message : 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  Project6.vcxproj -> \\NEWKAYAKNAS\Download\C++\C++ lecture\C++강의\C++ 강의\x64\Debug\08 operator2.exe

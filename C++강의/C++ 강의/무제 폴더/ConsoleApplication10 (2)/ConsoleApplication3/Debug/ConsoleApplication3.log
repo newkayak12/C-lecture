@@ -1,0 +1,2 @@
+﻿  ConsoleApplication3.cpp
+c:\users\atents\source\repos\consoleapplication10\consoleapplication3\consoleapplication3.cpp(153): error C2912: 명시적 특수화. 'float add<double>(float,float)'이(가) 함수 템플릿의 특수화가 아닙니다.

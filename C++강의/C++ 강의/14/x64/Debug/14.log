@@ -1,0 +1,8 @@
+﻿  floatTest.cpp
+  소스.cpp
+\\NEWKAYAKNAS\Download\C++\C++ lecture\C++강의\C++ 강의\14\소스.cpp(61,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  코드를 생성하고 있습니다...
+\\NEWKAYAKNAS\Download\C++\C++ lecture\C++강의\C++ 강의\14\floatTest.h(3): error C4716: 'minus': 값을 반환해야 합니다.
+\\NEWKAYAKNAS\Download\C++\C++ lecture\C++강의\C++ 강의\14\floatTest.h(2): error C4716: 'add': 값을 반환해야 합니다.
+\\NEWKAYAKNAS\Download\C++\C++ lecture\C++강의\C++ 강의\14\floatTest.h(4): error C4716: 'mulitple': 값을 반환해야 합니다.
+\\NEWKAYAKNAS\Download\C++\C++ lecture\C++강의\C++ 강의\14\floatTest.h(5): error C4716: 'division': 값을 반환해야 합니다.

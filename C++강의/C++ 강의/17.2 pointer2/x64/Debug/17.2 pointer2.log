@@ -1,0 +1,8 @@
+﻿  소스.cpp
+\\NEWKAYAKNAS\Download\C++\C++ lecture\C++강의\C++ 강의\17.2 pointer2\소스.cpp(60,5): error C3490: 'age'은(는) const 개체를 통해 액세스되고 있으므로 수정할 수 없습니다.
+\\NEWKAYAKNAS\Download\C++\C++ lecture\C++강의\C++ 강의\17.2 pointer2\소스.cpp(61,5): error C3490: 'grade'은(는) const 개체를 통해 액세스되고 있으므로 수정할 수 없습니다.
+\\NEWKAYAKNAS\Download\C++\C++ lecture\C++강의\C++ 강의\17.2 pointer2\소스.cpp(62,5): error C3490: 'no'은(는) const 개체를 통해 액세스되고 있으므로 수정할 수 없습니다.
+\\NEWKAYAKNAS\Download\C++\C++ lecture\C++강의\C++ 강의\17.2 pointer2\소스.cpp(65,6): error C2084: 'void change(Student *)' 함수에 이미 본문이 있습니다.
+\\NEWKAYAKNAS\Download\C++\C++ lecture\C++강의\C++ 강의\17.2 pointer2\소스.cpp(48): message : 'change'의 이전 정의를 참조하십시오.
+\\NEWKAYAKNAS\Download\C++\C++ lecture\C++강의\C++ 강의\17.2 pointer2\소스.cpp(73,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+\\NEWKAYAKNAS\Download\C++\C++ lecture\C++강의\C++ 강의\17.2 pointer2\소스.cpp(116,3): error C2065: 'change': 선언되지 않은 식별자입니다.
